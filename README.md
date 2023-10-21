@@ -1,8 +1,8 @@
-# CO3401 Advanced Software Engineering Techniques – Coursework (Part 1)
+# CO3401 Advanced Software Engineering Techniques
 
 ## Title: Java Simulation of a Christmassy Concurrency Conundrum
 
-This repository contains the written answers to the questions in the Coursework (Part 1) of the CO3401 Advanced Software Engineering Techniques module. The questions and detailed answers are provided below.
+This repository contains the written answers to the questions in the Coursework of the CO3401 Advanced Software Engineering Techniques module. The questions and detailed answers are provided below.
 
 ## Main Program Structure
 
