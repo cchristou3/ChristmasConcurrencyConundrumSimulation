@@ -24,7 +24,7 @@ The main program outlined structure is as follows:
    - After the simulation completes, output the final report summarizing the system's performance.
 
 ## Author
-This coursework is prepared by an anonymous author.
+This coursework is prepared by me of course.
 
 ---
 
