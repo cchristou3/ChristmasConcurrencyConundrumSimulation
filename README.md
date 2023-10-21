@@ -28,7 +28,7 @@ This coursework is prepared by me of course.
 
 ---
 
-## Question 1
+## Core Components
 
 ### Hopper
 The hopper is responsible for distributing presents in the system. Here's how it operates:
