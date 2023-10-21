@@ -1,0 +1,3 @@
+include ':AssignmentPart1'
+include ':app'
+rootProject.name = "AssignmentPart1"
